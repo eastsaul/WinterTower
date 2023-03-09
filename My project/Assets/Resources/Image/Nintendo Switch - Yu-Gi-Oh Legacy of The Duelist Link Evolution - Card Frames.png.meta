@@ -1,0 +1,293 @@
+fileFormatVersion: 2
+guid: 569c2d10651297145811cb91628162d7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo Switch - Yu-Gi-Oh Legacy of The Duelist Link Evolution - Card
+        Frames_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1204
+        height: 2906
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -602, y: 1453}
+        - {x: -602, y: -1453}
+        - {x: 602, y: -1453}
+        - {x: 602, y: 1453}
+      - - {x: -545.2744, y: -984.74805}
+        - {x: -255.97408, y: -984.74805}
+        - {x: -255.97408, y: -1274.2129}
+        - {x: -545.2744, y: -1274.2129}
+      - - {x: 257.3922, y: -984.74805}
+        - {x: 545.2744, y: -984.74805}
+        - {x: 545.2744, y: -1274.2129}
+        - {x: 257.3922, y: -1274.2129}
+      - - {x: -166.63132, y: -981.91016}
+        - {x: 166.63132, y: -981.91016}
+        - {x: 165.21318, y: -1227.3877}
+        - {x: -165.21318, y: -1227.3877}
+      - - {x: -143.9411, y: -404.3994}
+        - {x: 143.9411, y: -404.3994}
+        - {x: 143.9411, y: -692.4453}
+        - {x: -143.9411, y: -692.4453}
+      - - {x: 255.97408, y: -404.3994}
+        - {x: 545.2744, y: -404.3994}
+        - {x: 545.2744, y: -692.4453}
+        - {x: 255.97408, y: -692.4453}
+      - - {x: -566.5465, y: -401.56152}
+        - {x: -234.702, y: -401.56152}
+        - {x: -237.53827, y: -647.03906}
+        - {x: -565.12836, y: -647.03906}
+      - - {x: -545.2744, y: 177.36816}
+        - {x: -255.97408, y: 177.36816}
+        - {x: -255.97408, y: -112.09668}
+        - {x: -545.2744, y: -112.09668}
+      - - {x: -143.9411, y: 177.36816}
+        - {x: 145.35924, y: 177.36816}
+        - {x: 145.35924, y: -112.09668}
+        - {x: -143.9411, y: -112.09668}
+      - - {x: 257.3922, y: 177.36816}
+        - {x: 545.2744, y: 177.36816}
+        - {x: 545.2744, y: -112.09668}
+        - {x: 257.3922, y: -112.09668}
+      - - {x: -545.2744, y: 757.7168}
+        - {x: -255.97408, y: 757.7168}
+        - {x: -255.97408, y: 468.25195}
+        - {x: -545.2744, y: 468.25195}
+      - - {x: -143.9411, y: 756.29785}
+        - {x: -142.52296, y: 757.7168}
+        - {x: 143.9411, y: 757.7168}
+        - {x: -142.52296, y: 469.6709}
+        - {x: -142.52296, y: 471.08984}
+      - - {x: 234.702, y: 517.91504}
+        - {x: 234.702, y: 760.5547}
+        - {x: 567.96466, y: 760.5547}
+        - {x: 565.12836, y: 515.07715}
+      - - {x: -143.9411, y: 1339.4844}
+        - {x: 145.35924, y: 1339.4844}
+        - {x: 145.35924, y: 1050.0195}
+        - {x: -143.9411, y: 1050.0195}
+      - - {x: -566.5465, y: 1342.3223}
+        - {x: -234.702, y: 1342.3223}
+        - {x: -234.702, y: 1098.2637}
+        - {x: -563.7102, y: 1096.8447}
+        - {x: -566.5465, y: 1098.2637}
+      - - {x: 234.702, y: 1342.3223}
+        - {x: 567.96466, y: 1342.3223}
+        - {x: 567.96466, y: 1098.2637}
+        - {x: 237.53827, y: 1096.8447}
+        - {x: 234.702, y: 1098.2637}
+      physicsShape:
+      - - {x: -602, y: 1453}
+        - {x: -602, y: -1453}
+        - {x: 602, y: -1453}
+        - {x: 602, y: 1453}
+      - - {x: -546.69257, y: -983.3291}
+        - {x: -254.55594, y: -983.3291}
+        - {x: -254.55594, y: -1275.6318}
+        - {x: -546.69257, y: -1275.6318}
+      - - {x: 254.55594, y: -983.3291}
+        - {x: 548.1107, y: -983.3291}
+        - {x: 548.1107, y: -1275.6318}
+        - {x: 254.55594, y: -1275.6318}
+      - - {x: -168.04947, y: -1227.3877}
+        - {x: -168.04947, y: -980.4912}
+        - {x: 168.04947, y: -980.4912}
+        - {x: 168.04947, y: -1227.3877}
+        - {x: 156.70435, y: -1228.8066}
+        - {x: 6.381625, y: -1228.8066}
+        - {x: -3.5453472, y: -1230.2256}
+        - {x: -4.963486, y: -1228.8066}
+        - {x: -26.23557, y: -1228.8066}
+        - {x: -30.489986, y: -1227.3877}
+        - {x: -43.25324, y: -1227.3877}
+        - {x: -159.54063, y: -1228.8066}
+      - - {x: -146.77737, y: -402.98047}
+        - {x: 145.35924, y: -402.98047}
+        - {x: 145.35924, y: -695.2832}
+        - {x: -146.77737, y: -695.2832}
+      - - {x: 254.55594, y: -437.03516}
+        - {x: 253.1378, y: -435.6162}
+        - {x: 254.55594, y: -434.19727}
+        - {x: 254.55594, y: -401.56152}
+        - {x: 546.69257, y: -401.56152}
+        - {x: 546.69257, y: -695.2832}
+        - {x: 254.55594, y: -695.2832}
+      - - {x: -569.38275, y: -398.72363}
+        - {x: -233.28386, y: -398.72363}
+        - {x: -234.702, y: -648.458}
+        - {x: -566.5465, y: -647.03906}
+      - - {x: -602, y: 292.70166}
+        - {x: -203.02777, y: 298.2389}
+        - {x: -193.65897, y: -286.83777}
+        - {x: -602, y: -296.20654}
+      - - {x: -146.77737, y: 178.78711}
+        - {x: 146.77737, y: 178.78711}
+        - {x: 146.77737, y: -113.515625}
+        - {x: -146.77737, y: -113.515625}
+      - - {x: 254.55594, y: 178.78711}
+        - {x: 548.1107, y: 178.78711}
+        - {x: 548.1107, y: -113.515625}
+        - {x: 254.55594, y: -113.515625}
+      - - {x: -546.69257, y: 760.5547}
+        - {x: -254.55594, y: 760.5547}
+        - {x: -254.55594, y: 466.833}
+        - {x: -546.69257, y: 466.833}
+      - - {x: -146.77737, y: 471.08984}
+        - {x: -146.77737, y: 756.29785}
+        - {x: -142.52296, y: 760.5547}
+        - {x: 143.9411, y: 760.5547}
+        - {x: 146.77737, y: 757.7168}
+        - {x: 146.77737, y: 469.6709}
+        - {x: 143.9411, y: 466.833}
+        - {x: -142.52296, y: 466.833}
+        - {x: -142.52296, y: 468.25195}
+      - - {x: 233.28386, y: 763.3926}
+        - {x: 569.38275, y: 763.3926}
+        - {x: 567.96466, y: 513.6582}
+        - {x: 234.702, y: 513.6582}
+      - - {x: -146.77737, y: 1340.9033}
+        - {x: 146.77737, y: 1340.9033}
+        - {x: 146.77737, y: 1047.1816}
+        - {x: -146.77737, y: 1047.1816}
+      - - {x: -569.38275, y: 1096.8447}
+        - {x: -569.38275, y: 1343.7412}
+        - {x: -233.28386, y: 1343.7412}
+        - {x: -234.702, y: 1094.0068}
+      - - {x: 233.28386, y: 1096.8447}
+        - {x: 233.28386, y: 1343.7412}
+        - {x: 569.38275, y: 1343.7412}
+        - {x: 566.5465, y: 1094.0068}
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: 60aa32e2f59cfc842ad7b4d10414313a
+      internalID: 380182835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Nintendo Switch - Yu-Gi-Oh Legacy of The Duelist Link Evolution - Card Frames_0: 380182835
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
