@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 7abde49334e966240a7ce60ba0417052
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1302
+        width: 519
+        height: 1595
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e54e195bd52204483f690070ce4223
+      internalID: 1348607520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_1
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1302
+        width: 519
+        height: 1595
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1143a83f817cc4f836e9d88756ec5c
+      internalID: 1929536105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1074
+        width: 519
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885abef5ffa3b394e85bd999b1797690
+      internalID: 853579130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_3
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1074
+        width: 519
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaa5aa2bc83e54409c852aa347a499c
+      internalID: -1948395071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 846
+        width: 519
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591c62bf2255c9741abd5d385efd5de3
+      internalID: 1489504987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_5
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 846
+        width: 519
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e303599eb9fd184688f42ceb2df8f44
+      internalID: -1850566484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 618
+        width: 519
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c9737a244d3f14bb7b4b1b36659d1f
+      internalID: 723786248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_7
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 618
+        width: 519
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386d98effe61aa84bbd22a31b4eb6b3a
+      internalID: -1972704836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 519
+        height: 614
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578b74efd69f84548ab993fe2ed09f48
+      internalID: 2075082262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_9
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 389
+        width: 519
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775c9d4f8c596354dae77d062cdb54c6
+      internalID: -355068416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_10
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 30
+        width: 75
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58de1ab1898d9fa48ab6ede0be391919
+      internalID: 143838754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_11
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 30
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084f0e12ac2db2741ab940c22adeae6e
+      internalID: 1383635749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_12
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 35
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2143c532ac80e1a4794f93b553d83b22
+      internalID: 1031483518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_13
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 35
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d077ce736e2aa468da6c7833be310e
+      internalID: -1064960170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_14
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 35
+        width: 61
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc15db7703317f4fba8873c6902c6ea
+      internalID: -1540022582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_15
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 35
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe45013b8ae2614fb00a2d834dcb2c1
+      internalID: -1601970941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_16
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 11
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d713f0dc675eb45894713cd8807e15
+      internalID: -1397469106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_17
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 11
+        width: 52
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1e22fc3fa7e1a4c873fa75a38ebfd3
+      internalID: -2063815756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_18
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 11
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0a6add0b4be4848b9b8a089e84444e
+      internalID: 547862925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_19
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 11
+        width: 61
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3526f4c77aec2b24aa74a15ddcfed793
+      internalID: -201288705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_20
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 11
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa16a2ab5d4d5c4186e6301f91d4644
+      internalID: 158927688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_21
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fb282132c3c684d9dad4f4940693ab
+      internalID: 320597888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_20: 158927688
+      DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_21: 320597888
+      DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_17: -2063815756
+      DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_13: -1064960170
+      DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_7: -1972704836
+      DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_11: 1383635749
+      DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_19: -201288705
+      DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_10: 143838754
+      DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_12: 1031483518
+      DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_14: -1540022582
+      DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_16: -1397469106
+      DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_1: 1929536105
+      DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_4: 1489504987
+      DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_18: 547862925
+      DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_3: -1948395071
+      DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_15: -1601970941
+      DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_5: -1850566484
+      DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_6: 723786248
+      DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_2: 853579130
+      DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_8: 2075082262
+      DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_0: 1348607520
+      DS DSi - Etrian Odyssey III The Drowned City - Battle Backgrounds_9: -355068416
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
